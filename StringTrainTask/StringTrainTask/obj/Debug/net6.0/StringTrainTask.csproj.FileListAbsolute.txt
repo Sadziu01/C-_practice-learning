@@ -1,0 +1,15 @@
+D:\REPO\C#\StringTrainTask\StringTrainTask\bin\Debug\net6.0\StringTrainTask.exe
+D:\REPO\C#\StringTrainTask\StringTrainTask\bin\Debug\net6.0\StringTrainTask.deps.json
+D:\REPO\C#\StringTrainTask\StringTrainTask\bin\Debug\net6.0\StringTrainTask.runtimeconfig.json
+D:\REPO\C#\StringTrainTask\StringTrainTask\bin\Debug\net6.0\StringTrainTask.dll
+D:\REPO\C#\StringTrainTask\StringTrainTask\bin\Debug\net6.0\StringTrainTask.pdb
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.csproj.AssemblyReference.cache
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.AssemblyInfoInputs.cache
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.AssemblyInfo.cs
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.csproj.CoreCompileInputs.cache
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.dll
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\refint\StringTrainTask.dll
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.pdb
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\StringTrainTask.genruntimeconfig.cache
+D:\REPO\C#\StringTrainTask\StringTrainTask\obj\Debug\net6.0\ref\StringTrainTask.dll

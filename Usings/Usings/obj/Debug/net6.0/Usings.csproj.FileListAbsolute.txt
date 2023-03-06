@@ -1,0 +1,15 @@
+D:\REPO\C#\Usings\Usings\bin\Debug\net6.0\Usings.exe
+D:\REPO\C#\Usings\Usings\bin\Debug\net6.0\Usings.deps.json
+D:\REPO\C#\Usings\Usings\bin\Debug\net6.0\Usings.runtimeconfig.json
+D:\REPO\C#\Usings\Usings\bin\Debug\net6.0\Usings.dll
+D:\REPO\C#\Usings\Usings\bin\Debug\net6.0\Usings.pdb
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.csproj.AssemblyReference.cache
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.AssemblyInfoInputs.cache
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.AssemblyInfo.cs
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.csproj.CoreCompileInputs.cache
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.dll
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\refint\Usings.dll
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.pdb
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\Usings.genruntimeconfig.cache
+D:\REPO\C#\Usings\Usings\obj\Debug\net6.0\ref\Usings.dll
