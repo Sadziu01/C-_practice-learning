@@ -1,0 +1,17 @@
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\DataConnecting.exe
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\DataConnecting.deps.json
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\DataConnecting.runtimeconfig.json
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\DataConnecting.dll
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\DataConnecting.pdb
+D:\REPO\C#\DataConecting\DataConecting\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.csproj.AssemblyReference.cache
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.AssemblyInfoInputs.cache
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.AssemblyInfo.cs
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.csproj.CoreCompileInputs.cache
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.csproj.CopyComplete
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.dll
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\refint\DataConnecting.dll
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.pdb
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\DataConnecting.genruntimeconfig.cache
+D:\REPO\C#\DataConecting\DataConecting\obj\Debug\net6.0\ref\DataConnecting.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gHt7Uql0SvSUjz5g9o1KBxT3d8CQF8KHkMUJQFEk/gJxBOz+y+6Ef2rOmZv62XGmu+9WTCDMFlVt2rWf+jcqw==",
+  "success": true,
+  "projectFilePath": "D:\\REPO\\C#\\DataConecting\\DataConecting\\DataConnecting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadziu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
