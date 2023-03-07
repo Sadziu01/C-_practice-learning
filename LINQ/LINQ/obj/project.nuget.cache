@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV4IyaVySZJ9yuobC4Qv+4N3JkGFXbNT2jt9eccGnDNPzEjrLI9yYUZNctgOhKvr305fHfOguthHJxYrEW1F8Q==",
+  "success": true,
+  "projectFilePath": "D:\\REPO\\C#\\LINQ\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadziu\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
