@@ -1,0 +1,15 @@
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\bin\Debug\net6.0\ConsoleApp_First.exe
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\bin\Debug\net6.0\ConsoleApp_First.deps.json
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\bin\Debug\net6.0\ConsoleApp_First.runtimeconfig.json
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\bin\Debug\net6.0\ConsoleApp_First.dll
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\bin\Debug\net6.0\ConsoleApp_First.pdb
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.csproj.AssemblyReference.cache
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.AssemblyInfoInputs.cache
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.AssemblyInfo.cs
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.csproj.CoreCompileInputs.cache
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.dll
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\refint\ConsoleApp_First.dll
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.pdb
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ConsoleApp_First.genruntimeconfig.cache
+D:\REPO\C#\ConsoleApp1 - Learn\ConsoleApp1 - Learn\obj\Debug\net6.0\ref\ConsoleApp_First.dll
