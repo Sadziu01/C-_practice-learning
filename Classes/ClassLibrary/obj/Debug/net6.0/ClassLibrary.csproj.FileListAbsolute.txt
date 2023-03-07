@@ -1,0 +1,12 @@
+D:\REPO\C#\Classes\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\REPO\C#\Classes\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\REPO\C#\Classes\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\REPO\C#\Classes\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

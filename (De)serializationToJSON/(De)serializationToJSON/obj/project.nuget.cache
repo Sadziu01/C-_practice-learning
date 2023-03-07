@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oggEOF60Jspf6U1dwytyCGrF7xMGUL+mCqTEkwEi7TS65sLXXoWecoOSzPmsV/6puo4VHDbhbXnSkcGI2TQAA==",
+  "success": true,
+  "projectFilePath": "D:\\REPO\\C#\\(De)serializationToJSON\\(De)serializationToJSON\\(De)serializationToJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadziu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

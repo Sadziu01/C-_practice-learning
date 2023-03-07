@@ -1,0 +1,17 @@
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\(De)serializationToJSON.exe
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\(De)serializationToJSON.deps.json
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\(De)serializationToJSON.runtimeconfig.json
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\(De)serializationToJSON.dll
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\(De)serializationToJSON.pdb
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.csproj.AssemblyReference.cache
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.AssemblyInfoInputs.cache
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.AssemblyInfo.cs
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.csproj.CoreCompileInputs.cache
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.csproj.CopyComplete
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.dll
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\refint\(De)serializationToJSON.dll
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.pdb
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\(De)serializationToJSON.genruntimeconfig.cache
+D:\REPO\C#\(De)serializationToJSON\(De)serializationToJSON\obj\Debug\net6.0\ref\(De)serializationToJSON.dll
