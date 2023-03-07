@@ -1,0 +1,15 @@
+D:\REPO\C#\Kolekcje\Kolekcje\bin\Debug\net6.0\Kolekcje.exe
+D:\REPO\C#\Kolekcje\Kolekcje\bin\Debug\net6.0\Kolekcje.deps.json
+D:\REPO\C#\Kolekcje\Kolekcje\bin\Debug\net6.0\Kolekcje.runtimeconfig.json
+D:\REPO\C#\Kolekcje\Kolekcje\bin\Debug\net6.0\Kolekcje.dll
+D:\REPO\C#\Kolekcje\Kolekcje\bin\Debug\net6.0\Kolekcje.pdb
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.csproj.AssemblyReference.cache
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.AssemblyInfoInputs.cache
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.AssemblyInfo.cs
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.csproj.CoreCompileInputs.cache
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.dll
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\refint\Kolekcje.dll
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.pdb
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\Kolekcje.genruntimeconfig.cache
+D:\REPO\C#\Kolekcje\Kolekcje\obj\Debug\net6.0\ref\Kolekcje.dll

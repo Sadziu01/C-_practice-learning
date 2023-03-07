@@ -1,0 +1,15 @@
+D:\REPO\C#\FileOperations\FileOperations\bin\Debug\net6.0\FileOperations.exe
+D:\REPO\C#\FileOperations\FileOperations\bin\Debug\net6.0\FileOperations.deps.json
+D:\REPO\C#\FileOperations\FileOperations\bin\Debug\net6.0\FileOperations.runtimeconfig.json
+D:\REPO\C#\FileOperations\FileOperations\bin\Debug\net6.0\FileOperations.dll
+D:\REPO\C#\FileOperations\FileOperations\bin\Debug\net6.0\FileOperations.pdb
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.csproj.AssemblyReference.cache
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfoInputs.cache
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfo.cs
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.csproj.CoreCompileInputs.cache
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.dll
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\refint\FileOperations.dll
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.pdb
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\FileOperations.genruntimeconfig.cache
+D:\REPO\C#\FileOperations\FileOperations\obj\Debug\net6.0\ref\FileOperations.dll

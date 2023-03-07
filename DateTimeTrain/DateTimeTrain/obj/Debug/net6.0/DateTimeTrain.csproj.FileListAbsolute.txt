@@ -1,0 +1,15 @@
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\bin\Debug\net6.0\DateTimeTrain.exe
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\bin\Debug\net6.0\DateTimeTrain.deps.json
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\bin\Debug\net6.0\DateTimeTrain.runtimeconfig.json
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\bin\Debug\net6.0\DateTimeTrain.dll
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\bin\Debug\net6.0\DateTimeTrain.pdb
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.csproj.AssemblyReference.cache
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.AssemblyInfoInputs.cache
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.AssemblyInfo.cs
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.csproj.CoreCompileInputs.cache
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.dll
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\refint\DateTimeTrain.dll
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.pdb
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\DateTimeTrain.genruntimeconfig.cache
+D:\REPO\C#\DateTimeTrain\DateTimeTrain\obj\Debug\net6.0\ref\DateTimeTrain.dll
